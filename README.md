@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=79C83D&center=true&vCenter=true&width=600&lines=안녕하세요!+성장하는+개발자+김동환(통환)입니다.;현재+Re:view+프로젝트를+진행+중입니다.;11년+차+크리에이터+Sport7입니다!&repeat=true" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/senakim7">
     <img src="https://komarev.com/ghpvc/?username=senakim7&label=Profile%20views&color=0e75b6&style=flat" alt="senakim7" />
   </a>
-  <a href="https://youtube.com/@Sport7">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Sport7"/>
+  <a href="https://youtube.com/@Spot7">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Spot7"/>
   </a>
 </p>
 
