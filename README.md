@@ -5,9 +5,6 @@
   <a href="https://github.com/senakim7">
     <img src="https://komarev.com/ghpvc/?username=senakim7&label=Profile%20views&color=0e75b6&style=flat" alt="senakim7" />
   </a>
-  <a href="https://youtube.com/@Spot7">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Spot7"/>
-  </a>
 </p>
 
 <div align="center">
