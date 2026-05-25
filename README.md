@@ -47,8 +47,6 @@
 
 ## 📊 GitHub Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senakim7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senakim7&theme=tokyonight" alt="GitHub Streak" />
 </div>
