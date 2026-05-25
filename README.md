@@ -45,7 +45,7 @@
 
 <br/>
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Streak
 <div align="center">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senakim7&theme=tokyonight" alt="GitHub Streak" />
