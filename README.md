@@ -29,10 +29,10 @@
 <br/>
 
 ## 🚀 Projects
-| 🛒 Re:view (진행 중) | 🔫 NITRO ROGUE (2025) |
-| :--- | :--- |
-| **쇼핑몰 리뷰 신뢰도 분석 플랫폼**<br/>가짜 리뷰를 필터링하고 신뢰도를 분석합니다. | **4인 협동 FPS 로그라이크 게임**<br/>협동 플레이 기반의 슈팅 액션 게임입니다. |
-| `#Flutter` `#FastAPI` `#Supabase` | `#Unity` `#C#` `#GameDev` |
+| 🛒 Re:view (진행 중) | 🤖 AI Debate (ai-debate-front) | 🔫 NITRO ROGUE (2025) |
+| :--- | :--- | :--- |
+| **쇼핑몰 리뷰 신뢰도 분석 플랫폼**<br/>가짜 리뷰를 필터링하고 신뢰도를 분석합니다. | **AI 기반 실시간 토론 플랫폼**<br/>AI와 대화하며 논리력을 키우는 토론 프론트엔드입니다. | **4인 협동 FPS 로그라이크 게임**<br/>협동 플레이 기반의 슈팅 액션 게임입니다. |
+| `#Flutter` `#FastAPI` `#Supabase` | `#Flutter` `#Dart` `#AI` `#Debate` | `#Unity` `#C#` `#GameDev` |
 
 <br/>
 
