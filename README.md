@@ -50,5 +50,5 @@
 <div align="center">
   <br/>
   <!-- 🛠️ 스트릭 주소 수정 완료 (Heroku -> Vercel) -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=senakim7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=senakim7&theme=tokyonight" alt="GitHub Streak" />
 </div>
