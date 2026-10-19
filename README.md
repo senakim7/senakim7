@@ -1,99 +1,93 @@
 <div align="center">
-  <!-- 🪐 웅장한 가상 우주/디지털 네온 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DONG%20HWAN&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
-  <br/>
+<img src="./assets/hero.svg" width="100%" alt="DONG HWAN | Creative Software Developer" />
 
-  <!-- ⚡ 타이핑 SVG (크기와 폰트 굵기를 키워 가독성 업) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=7aa5ff&center=true&vCenter=true&width=600&lines=CREATIVE+SOFTWARE+DEVELOPER;Flutter+%26+Spring+Boot+Architect;Welcome+to+My+Digital+Space" alt="Typing SVG" />
+<br />
 
-  <br/>
+<a href="https://github.com/senakim7?tab=repositories"><img alt="GitHub projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-141e32?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=senakim7&label=PROFILE+VIEWS&color=00c2d7&style=for-the-badge" />
 
-  <!-- 📊 실시간 방문자 카운터 (글로우 스타일로 변경) -->
-  <img src="https://komarev.com/ghpvc/?username=senakim7&label=VISITOR+LOGS&color=7aa5ff&style=for-the-badge" />
+### ✦ Build ideas. Connect people. Create experiences.
+
+**AI-powered applications · Full-stack development · Interactive worlds**
+
 </div>
 
 ---
 
-## 🌌 Mastered Technologies
+## `01` / About me
+
+안녕하세요! 다양한 아이디어를 실제 서비스와 인터랙티브 경험으로 구현하는 개발자 **Dong Hwan**입니다.  
+모바일 애플리케이션, AI 기반 데이터 분석, 백엔드 시스템, 멀티플레이어 게임 개발을 탐구하고 있습니다.
+
+- 🔭 **Currently building:** Re:view — 신뢰할 수 있는 쇼핑 리뷰 경험
+- 🧠 **Interested in:** Applied AI · Product Engineering · Backend Infrastructure
+- 🎮 **Also creating:** Cooperative games and interactive experiences
+
+## `02` / Technology orbit
 
 <div align="center">
-  <!-- Skill Icons에 사이버펑크 네온 효과(글로우)와 마우스 오버 반응을 더해 훨씬 화려하게 배치 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,spring,fastapi,supabase,unity,cs&theme=dark" alt="My Skills" />
-  </a>
+
+**Applications & Backend**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,python,fastapi&theme=dark" alt="Application and backend technologies" />
+
+**Data · Infrastructure · Creative**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,azure,github,unity,cs&theme=dark" alt="Data infrastructure and creative technologies" />
+
 </div>
 
-<br/>
+<sub>Technologies explored and used across projects; icons do not represent proficiency rankings.</sub>
 
-## 🪐 Core Blueprints
+## `03` / Featured missions
+
+<a href="https://github.com/senakim7?tab=repositories"><img src="./assets/review.svg" width="100%" alt="Re:view — AI-powered review trust analysis" /></a>
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="./assets/b3o1.svg" width="100%" alt="B3O1 AI discussion platform" /></td>
+<td width="50%" valign="top"><a href="https://github.com/dmu-7team/NitroRogue"><img src="./assets/nitro.svg" width="100%" alt="Nitro Rogue four player FPS roguelike" /></a></td>
+</tr>
+<tr>
+<td valign="top">
+
+**B3O1 · 2026**  
+AI 기반 실시간 토론 플랫폼 · Flutter / Dart / AI agents  
+<sub>Completed · Source repository link not verified</sub>
+
+</td>
+<td valign="top">
+
+**[NITRO ROGUE · 2025](https://github.com/dmu-7team/NitroRogue)**  
+4인 협동 FPS 로그라이크 · Unity / C# / Multiplayer  
+<sub>Released project · Repository</sub>
+
+</td>
+</tr>
+</table>
+
+**Re:view · In progress** — Flutter / FastAPI / Supabase를 활용한 쇼핑 리뷰 신뢰도 분석 프로젝트.  
+<sub>Public source repository not verified; the banner links to my repository list.</sub>
+
+## `04` / GitHub signal
 
 <div align="center">
-  <!-- 프로젝트 섹션을 입체적인 마크다운 아코디언 스타일과 카드 형태로 시각화 -->
-  <table width="100%">
-    <tr>
-      <td width="33.3%" align="center" bgcolor="#1a1b26">
-        <br/>
-        <h3>🛒 Re:view</h3>
-        <p><b>쇼핑몰 리뷰 신뢰도 분석</b></p>
-        <img src="https://img.shields.io/badge/Status-In--Progress-orange?style=flat-square" /><br/>
-        <code>#Flutter</code> <code>#FastAPI</code> <code>#Supabase</code>
-        <br/><br/>
-      </td>
-      <td width="33.3%" align="center" bgcolor="#16161e">
-        <br/>
-        <h3>🤖 B3O1 (2026)</h3>
-        <p><b>AI 실시간 토론 플랫폼</b></p>
-        <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" /><br/>
-        <code>#Flutter</code> <code>#Dart</code> <code>#AI_Agent</code>
-        <br/><br/>
-      </td>
-      <td width="33.3%" align="center" bgcolor="#1a1b26">
-        <br/>
-        <h3>🔫 NITRO ROGUE</h3>
-        <p><b>4인 협동 FPS 로그라이크</b></p>
-        <img src="https://img.shields.io/badge/Status-2025_Release-blue?style=flat-square" /><br/>
-        <code>#Unity</code> <code>#C%23</code> <code>#GameDev</code>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://streak-stats.demolab.com?user=senakim7&theme=tokyonight&hide_border=true&background=0D1428" height="175" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senakim7&bg_color=0d1428&color=8ab4f8&line=46d8e5&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+<sub>Activity widgets are provided by third parties and may occasionally fail or rate-limit.</sub>
+
 </div>
 
-<br/>
-
-## ⚡ Neural Network Analytics
+## `05` / Stay curious
 
 <div align="center">
-  <!-- 트로피 배너를 위쪽에 와이드하게 배치하여 훈장 같은 느낌 부여 -->
-  <img src="https://github-readme-trophy.vercel.app/?username=senakim7&theme=tokyonight&margin-w=15&column=7&no-frame=true" width="100%" alt="senakim7 trophy" />
 
-  <br/><br/>
+<img src="./assets/footer.svg" width="100%" alt="Keep creating. Keep exploring." />
 
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <!-- 🔥 커밋 스트릭 (Tokyonight 테마 극대화) -->
-      <td align="center" valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=senakim7&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-      </td>
-      <!-- 📈 깃허브 확장 종합 스탯 -->
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=senakim7&theme=tokyonight&show_icons=true&hide_border=true" width="95%" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <!-- 📅 대형 활동 곡선 대시보드 그래프 (보더 제거로 일체감 상승) -->
-      <td align="center" valign="top" colspan="2">
-        <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=senakim7&theme=tokyonight&no-border=true" width="100%" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+[**Explore repositories →**](https://github.com/senakim7?tab=repositories)
 
-<br/>
-
-<div align="center">
-  <!-- 🎇 하단 인트로 마감 웨이브 효과 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight" width="100%" />
 </div>
