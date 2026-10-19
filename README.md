@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".hero.svg" width="100%" alt="DONG HWAN | Creative Software Developer" />
+<img src="./hero.svg" width="100%" alt="DONG HWAN | Creative Software Developer" />
 
 <br />
 
