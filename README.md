@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="DONG HWAN | Creative Software Developer" />
+<img src=".hero.svg" width="100%" alt="DONG HWAN | Creative Software Developer" />
 
 <br />
 
@@ -46,8 +46,8 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/b3o1.svg" width="100%" alt="B3O1 AI discussion platform" /></td>
-<td width="50%" valign="top"><a href="https://github.com/dmu-7team/NitroRogue"><img src="./assets/nitro.svg" width="100%" alt="Nitro Rogue four player FPS roguelike" /></a></td>
+<td width="50%" valign="top"><img src="./b3o1.svg" width="100%" alt="B3O1 AI discussion platform" /></td>
+<td width="50%" valign="top"><a href="https://github.com/dmu-7team/NitroRogue"><img src=".nitro.svg" width="100%" alt="Nitro Rogue four player FPS roguelike" /></a></td>
 </tr>
 <tr>
 <td valign="top">
